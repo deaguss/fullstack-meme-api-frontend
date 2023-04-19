@@ -4,7 +4,7 @@
 
 # Project Title
 
-ui hanyan untuk responsive mobile
+ui hanya untuk responsive mobile
 
 
 
@@ -13,6 +13,7 @@ ui hanyan untuk responsive mobile
 Install my-project with npm
 
 ```bash
+  git clone "link this project"
   npm i my-project
   cd my-project
 
